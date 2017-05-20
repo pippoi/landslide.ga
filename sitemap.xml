@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://www.landslide.ga/post/hello-world/</loc>
+    <lastmod>2017-05-11T22:02:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.landslide.ga/</loc>
+    <lastmod>2017-05-11T22:02:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.landslide.ga/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.landslide.ga/tags/hello/</loc>
+    <lastmod>2017-05-11T22:02:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.landslide.ga/post/</loc>
+    <lastmod>2017-05-11T22:02:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.landslide.ga/tags/</loc>
+    <lastmod>2017-05-11T22:02:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.landslide.ga/categories/technology/</loc>
+    <lastmod>2017-05-11T22:02:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.landslide.ga/tags/world/</loc>
+    <lastmod>2017-05-11T22:02:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
